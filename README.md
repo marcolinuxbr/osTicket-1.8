@@ -1,4 +1,4 @@
-osTicket
+osTicket - markLinux edition
 ========
 osTicket is a widely-used open source support ticket system. It seamlessly
 integrates inquiries created via email, phone and web-based forms into a
